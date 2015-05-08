@@ -5,7 +5,7 @@ name: "rusty shutter"
 markdown: rdiscount
 
 author: "wayne"
-atom-baseurl: "http://f1ct1on.github.io"
+atom-baseurl: ""
 disqus: "gopherwood"
 
 navigations:
